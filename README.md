@@ -11,3 +11,5 @@ DevRadar
 - NodeJS
 - ReactJS
 - ReactNative
+
+#omnistack #rocketseat #vovolinux
