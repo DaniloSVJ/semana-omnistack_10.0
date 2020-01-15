@@ -12,4 +12,9 @@ DevRadar
 - ReactJS
 - ReactNative
 
-#omnistack #rocketseat #vovolinux
+```
+#omnistack
+#rocketseat 
+#semanaomnistack
+#vovolinux
+```
